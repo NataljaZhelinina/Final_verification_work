@@ -12,7 +12,8 @@
 5. Возвращаем новый заполненый массив как результат
 
 ### Блок-схема алгоритма:
-![Схема] https://github.com/NataljaZhelinina/Final_verification_work/blob/main/%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png
+![Схема] https://github.com/NataljaZhelinina/Final_verification_work/blob/main/%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png ![схема](https://user-images.githubusercontent.com/118520162/206854829-c3cfc32f-8214-40a9-a7f1-c5c5679c9392.png)
+
 
 ### Программа:
 Для запуска программы перейдите в документа `Program` и запустите команду через терминал:
