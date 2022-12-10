@@ -1,0 +1,15 @@
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\bin\Debug\net7.0\Final_verification_work.exe
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\bin\Debug\net7.0\Final_verification_work.deps.json
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\bin\Debug\net7.0\Final_verification_work.runtimeconfig.json
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\bin\Debug\net7.0\Final_verification_work.dll
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\bin\Debug\net7.0\Final_verification_work.pdb
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.csproj.AssemblyReference.cache
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.AssemblyInfoInputs.cache
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.AssemblyInfo.cs
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.csproj.CoreCompileInputs.cache
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.dll
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\refint\Final_verification_work.dll
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.pdb
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\Final_verification_work.genruntimeconfig.cache
+C:\Users\Nataliya\Documents\Final_verification_work\Final_verification_work\obj\Debug\net7.0\ref\Final_verification_work.dll
